@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mobile-text-editor/static/css/main.de22f1bc.chunk.css",
+    "main.js": "/mobile-text-editor/static/js/main.208bad7e.chunk.js",
+    "main.js.map": "/mobile-text-editor/static/js/main.208bad7e.chunk.js.map",
+    "runtime-main.js": "/mobile-text-editor/static/js/runtime-main.8ac09704.js",
+    "runtime-main.js.map": "/mobile-text-editor/static/js/runtime-main.8ac09704.js.map",
+    "static/js/2.00c1cae0.chunk.js": "/mobile-text-editor/static/js/2.00c1cae0.chunk.js",
+    "static/js/2.00c1cae0.chunk.js.map": "/mobile-text-editor/static/js/2.00c1cae0.chunk.js.map",
+    "static/js/3.5b8aa253.chunk.js": "/mobile-text-editor/static/js/3.5b8aa253.chunk.js",
+    "static/js/3.5b8aa253.chunk.js.map": "/mobile-text-editor/static/js/3.5b8aa253.chunk.js.map",
+    "index.html": "/mobile-text-editor/index.html",
+    "static/css/main.de22f1bc.chunk.css.map": "/mobile-text-editor/static/css/main.de22f1bc.chunk.css.map",
+    "static/js/2.00c1cae0.chunk.js.LICENSE.txt": "/mobile-text-editor/static/js/2.00c1cae0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mobile-text-editor/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ac09704.js",
+    "static/js/2.00c1cae0.chunk.js",
+    "static/css/main.de22f1bc.chunk.css",
+    "static/js/main.208bad7e.chunk.js"
+  ]
+}
